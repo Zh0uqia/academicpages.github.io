@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Qianying Zhou"
-  avatar           : "profile.png"
+  avatar           : "WechatIMG10.jpeg"
   bio              : "Incoming Software Engineer at Google"
   location         : "State College, PA"
   employer         :
@@ -96,13 +96,11 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Zh0uqia"
-  google_plus      :
-  keybase          :
+  github           : "Zh0uqia"
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/qycode/"
+  linkedin         : "qycode"
   orcid            : 
   pinterest        :
   soundcloud       :
