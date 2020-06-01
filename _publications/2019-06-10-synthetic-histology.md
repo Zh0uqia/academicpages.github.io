@@ -5,7 +5,7 @@ permalink: /publication/miccai19
 excerpt: ''
 date: 2019-06-10
 venue: 'MICCAI'
-citation: 'Yuan Xue, **Qianying Zhou**, Jiarong Ye, L. Rodney Long, Sameer Antani, Carl Cornwell, Zhiyun Xue, Xiaolei Huang (2019). &quot;Synthetic Augmentation and Feature-Based Filtering for Improved Cervical Histopathology Image Classification.&quot; <i>MICCAI 2019</i>'
+citation: 'Yuan Xue, Qianying Zhou, Jiarong Ye, L. Rodney Long, Sameer Antani, Carl Cornwell, Zhiyun Xue, Xiaolei Huang (2019). &quot;Synthetic Augmentation and Feature-Based Filtering for Improved Cervical Histopathology Image Classification.&quot; <i>MICCAI 2019</i>'
 ---
 [[PDF]](https://qycode.me/files/miccai19.pdf)
 
