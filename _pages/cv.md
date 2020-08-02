@@ -11,11 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in Finance, Wuhan University, 2018
 * M.S. in Information Sciences and Technology, Penn State University, 2020
+* B.S. in Finance, Wuhan University, 2018
 
 Work experience
 ======
+* Jul 2020 - present: Software Engineer Resident
+  * Google 
+
 * Nov 2018 - May 2019: Part-time Research Assistant
   * Penn State University
   * Supervisor: Prof. Sharon Huang
@@ -25,7 +28,7 @@ Work experience
   
 Skills
 ======
-* Programming Languages: Python, C++, Java, C, R, LaTex
+* Programming Languages: Python, C/C++, Java, R, LaTex
 * PyTorch, OpenCV
 
 Publications
