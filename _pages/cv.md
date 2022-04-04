@@ -16,7 +16,10 @@ Education
 
 Work experience
 ======
-* Jul 2020 - present: Software Engineer Resident
+* Feb 2021 - present: Software Engineer
+  * Google
+
+* Jul 2020 - Jan 2021: Software Engineer Resident
   * Google 
 
 * Nov 2018 - May 2019: Part-time Research Assistant
