@@ -8,13 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-- I am a Software Engineer Resident at Google.
+- I am a Software Engineer at Google.
 
 - I received my Master's Degree in Penn State University, and my Bachelor's Degree in Wuhan University. 
 My graduate research advisor is [Prof. Sharon Huang](https://faculty.ist.psu.edu/suh972/).
 
 Recent News
 ====
+- Feb 6, 2021. I converted to a full-time engineer at Google.
+
 - July 27, 2020. I joined Google as an engineering resident.
 
 - March 20, 2020. I successfully passed my Master thesis defense.
